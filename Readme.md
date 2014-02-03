@@ -6,7 +6,7 @@
     var r = require('r');
 
     r.user = '/users/:id';
-    r('user', 123); // => '/users/123'
+    r('user', 123); // /users/123
 
 ## Installation
 
