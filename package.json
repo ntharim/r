@@ -1,0 +1,13 @@
+{
+  "name": "r",
+  "description": "Give specific path given route.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "chai": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/path-to-regexp.git"
+  }  
+}
