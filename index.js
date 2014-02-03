@@ -1,10 +1,4 @@
 /**
- * Module dependencies.
- */
-
-var toRegexp = require('path-to-regexp');
-
-/**
  * Expose `r`.
  */
 
