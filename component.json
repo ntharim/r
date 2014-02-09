@@ -1,7 +1,7 @@
 {
   "name": "r",
   "repo": "Ntran013/r",
-  "description": "Give specific path given route.",
+  "description": "Return specific path given route.",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
