@@ -1,6 +1,6 @@
 # r
 
-  Give specific path given route.
+  Return specific path given route.
 
     var r = require('r');
 
